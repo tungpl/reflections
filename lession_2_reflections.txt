@@ -13,7 +13,9 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 --When multiple people or group who wish to develop different features
+
 How do the diagrams help you visualize the branch structure?
+--It is the best way to illustrate the branches graph. 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
